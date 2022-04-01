@@ -43,6 +43,7 @@ function CLASS(elem){
 function $(elem){
     return document.querySelectorAll(elem);
 }
+
 function init(){
     kiirKepek()
 
